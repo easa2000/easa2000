@@ -7,6 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/mahudoomnaina" target="blank"><img src="https://img.shields.io/twitter/follow/mahudoomnaina?logo=twitter&style=for-the-badge" alt="mahudoomnaina" /></a> </p>
 
+- 🌱 I’m currently learning **Java script, React, Angular**
+
+- 💬 Ask me about **Java, Python**
+
+- 📫 How to reach me **mahudoomn@gmail.com**
+
+- ⚡ Fun fact **I am foodie**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mahudoomnaina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahudoomnaina" height="30" width="40" /></a>
