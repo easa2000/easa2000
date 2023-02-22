@@ -37,3 +37,7 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=easa2000&show_icons=true&locale=en" alt="easa2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=easa2000&" alt="easa2000" /></p>
+
+### GitHub Activity Graph
+[![easa2000's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=easa2000&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/easa2000)
+
