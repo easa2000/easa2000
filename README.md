@@ -1,6 +1,8 @@
 ![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
-<h1 align="center">Hi 👋, I'm Mahudoom Naina</h1>
-<h3 align="center">A passionate to Full Stack Development</h3>
+hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Mahudoom Naina
+=========================================================================================================================================
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=But+my+friends+call+me+Easa.)](https://github.com/sponsors/heyValdemar)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=easa2000&label=Profile%20views&color=0e75b6&style=flat" alt="easa2000" /> </p>
 
