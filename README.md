@@ -5,7 +5,6 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=But+my+friends+call+me+Easa.)
 <h3>A Passionate to learn Full Stack Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=easa2000&label=Profile%20views&color=0e75b6&style=flat" alt="easa2000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=easa2000" alt="easa2000" /></a> </p>
 
